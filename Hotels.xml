@@ -2,22 +2,21 @@
 <Hotels>
   <!-- figure 1 -->
   <Hotel Rating="4.2">
-  <Name>Westin</Name>
-  <Phone>480-968-8885</Phone>
-  <Phone>800-937-8461</Phone>
-  <Address NearestAirport="Sky Habor">
-    <Number>11</Number>
-    <Street>E.7th St</Street>
-    <City>Tempe</City>
-    <State>AZ</State>
-    <Zip>85281</Zip>
-  </Address>
-</Hotel>
-
+    <n>Westin</n>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
   
   <!-- 10 real hotels: -->
   <Hotel Rating="4.1">
-    <Name>Hilton Garden Inn Chandler Downtown</Name>
+    <n>Hilton Garden Inn Chandler Downtown</n>
     <Phone>623-471-8400</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>150</Number>
@@ -29,7 +28,7 @@
   </Hotel>
   
   <Hotel Rating="4.1">
-    <Name>Sonesta Select Phoenix Chandler</Name>
+    <n>Sonesta Select Phoenix Chandler</n>
     <Phone>480-763-9500</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>920</Number>
@@ -41,7 +40,7 @@
   </Hotel>
   
   <Hotel Rating="2.7">
-    <Name>Super 8 by Wyndham Chandler Phoenix</Name>
+    <n>Super 8 by Wyndham Chandler Phoenix</n>
     <Phone>480-961-3888</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>7171</Number>
@@ -53,7 +52,7 @@
   </Hotel>
   
   <Hotel>
-    <Name>Quality Inn Chandler I-10</Name>
+    <n>Quality Inn Chandler I-10</n>
     <Phone>480-705-0922</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>255</Number>
@@ -65,7 +64,7 @@
   </Hotel>
   
   <Hotel Rating="3.4">
-    <Name>Extended Stay America - Phoenix - Chandler</Name>
+    <n>Extended Stay America - Phoenix - Chandler</n>
     <Phone>480-785-0464</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>14245</Number>
@@ -77,7 +76,7 @@
   </Hotel>
   
   <Hotel Rating="4.2">
-    <Name>DoubleTree by Hilton Phoenix Chandler</Name>
+    <n>DoubleTree by Hilton Phoenix Chandler</n>
     <Phone>480-961-4444</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>7475</Number>
@@ -89,7 +88,7 @@
   </Hotel>
   
   <Hotel Rating="3.7">
-    <Name>Wingate by Wyndham Chandler</Name>
+    <n>Wingate by Wyndham Chandler</n>
     <Phone>928-275-3123</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>7425</Number>
@@ -101,7 +100,7 @@
   </Hotel>
   
   <Hotel Rating="4.2">
-    <Name>Comfort Inn Chandler - Phoenix South I-10</Name>
+    <n>Comfort Inn Chandler - Phoenix South I-10</n>
     <Phone>602-922-5340</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>7400</Number>
@@ -113,7 +112,7 @@
   </Hotel>
   
   <Hotel Rating="4.5">
-    <Name>Cambria Hotel Phoenix Chandler - Fashion Center</Name>
+    <n>Cambria Hotel Phoenix Chandler - Fashion Center</n>
     <Phone>520-448-3434</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>3165</Number>
@@ -125,7 +124,7 @@
   </Hotel>
   
   <Hotel Rating="3.2">
-    <Name>WoodSpring Suites Chandler Airport</Name>
+    <n>WoodSpring Suites Chandler Airport</n>
     <Phone>480-878-3012</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International">
       <Number>2050</Number>
@@ -135,4 +134,4 @@
       <Zip>85286</Zip>
     </Address>
   </Hotel>
-</Hotels>   
+</Hotels>
